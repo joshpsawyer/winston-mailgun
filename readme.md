@@ -1,5 +1,8 @@
 # winston-mailgun
 
+[![NPM version](https://img.shields.io/npm/v/winston-mailgun.svg)](https://npmjs.org/package/package/winston-mailgun)
+[![NPM Downloads](https://img.shields.io/npm/dm/winston-mailgun.svg)](https://npmjs.org/package/package/winston-mailgun)
+
 This is a transport written to implement [mailgun-js](https://github.com/1lobby/mailgun-js) with [winston](https://github.com/winstonjs/winston)
 
 ## Installation
